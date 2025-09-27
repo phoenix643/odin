@@ -53,6 +53,8 @@ function playRound(humanChoice, computerChoice) {
 
 // Run one round
 getHumanChoice();
+let hi = True
 // const computerSelection = getComputerChoice();
 
-// playRound(humanSelection, computerSelection);
+// playRound(humanSelection, computerSelection)
+// streak comment(ignore)
